@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    margin:0px 15px;
+}
+.nav{
+    margin-top: 10px ;
+ 
+}
+.ul0{
+    display: flex;
+    justify-content: right;
+    gap: 15px;
+}
+ul li{
+    list-style-type: none;
+}
+.btn{
+    background: rgb(36, 36, 232);
+    color:white;
+    border: none;
+    width: 80px;
+    height: 30px;
+}
+.btn1{
+    width: 120px;
+    height: 30px;
+    border: none;
+}
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    gap: 30px;
+}
+.offered a{
+    text-decoration: none;
+}
+.g{
+    color: rgb(28, 85, 231);
+}
+.o{
+    color: rgb(245, 22, 22);
+}
+.o1{
+    color: rgb(244, 244, 14);
+}
+.g1{
+    color: rgb(28, 85, 231);
+}
+.l{
+    color: rgb(10, 175, 10);
+}
+.e{
+    color:rgb(245, 22, 22);
+}
+.lett{
+    font-size: 90px;
+}
+input[type=text]{
+    display: flex;
+    align-items: center;
+    width: 500px;
+    height: 40px;
+    border-radius: 100px;
+    outline: none;
+    font-family: verdana,'FontAwesome', 'Sagoe UI', Tahoma, Geneva, verdana,sans-serif;
+    
+}
+.tr{
+    display: flex;
+    gap: 30px;
+}
+.lucky{
+    gap: 55px;
+}
+.ul1{
+    display: flex;
+    justify-content: space-between;
+}
+.ul1 a{
+    text-decoration: none;
+}
+.li1{
+    display: flex;
+    justify-content: right;
+    gap: 15px;
+}
+.div{
+    display: flex;
+    gap: 15px;
+}
+
